@@ -1,3 +1,5 @@
+# Testing the Git Repo merge and change the remove. 
+
 # PSoC 6 MCU: Empty Application Template
 
 This is a minimal starter application template for PSoC® 6 MCU devices. 
